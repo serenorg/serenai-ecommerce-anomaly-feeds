@@ -1,10 +1,12 @@
 # SerenAI E-commerce Monitor
 
-Real-time anomaly detection for Shopify and WooCommerce stores.
+**Free** real-time anomaly detection for Shopify and WooCommerce stores.
 
 ## Overview
 
 SerenAI E-commerce Monitor watches your online store's checkout for critical issues and alerts you immediately when problems are detected.
+
+**100% Free for merchants** - No credit card required. No usage limits. No premium tiers.
 
 **What We Monitor:**
 
